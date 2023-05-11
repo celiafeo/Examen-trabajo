@@ -1,6 +1,5 @@
 package Trabajo;
 
-
 import javax.swing.*;
 
 public class GestorContenedores {
@@ -23,4 +22,7 @@ public class GestorContenedores {
     private JComboBox comboBox2;
     private JTextField textField7;
     private JCheckBox inspeccionadoEnAduanasCheckBox;
+
+
+
 }
